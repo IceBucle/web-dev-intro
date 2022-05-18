@@ -1,3 +1,3 @@
 # web-dev-intro
 
-This is for practing
+Per practicar
