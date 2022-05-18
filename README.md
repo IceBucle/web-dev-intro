@@ -1,6 +1,6 @@
 # web-dev-intro
 
-Per practicar
+Per practicar... i aprendre
 
 ## Per començar un projecte fer: New repository (a GitHub)
 Sempre afegir el README.md per defecte
