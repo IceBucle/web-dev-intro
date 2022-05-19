@@ -17,6 +17,7 @@ Altres commandes d'interes: git status	:droplet:
 ## Per fer un pull request a un altre projecte fer: Fork :trident:
 
 Abans de modificar res crear una nova branca: git branch [branch-name]
+
 I canviar de branca: git switch [branch-name]
 
 ## Anar fent canvis (add . i commit -m "" i opcional pull) :recycle:
