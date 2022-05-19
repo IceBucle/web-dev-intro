@@ -23,8 +23,11 @@ I canviar de branca: git switch [branch-name]
 ## Anar fent canvis (add . i commit -m "" i opcional pull) :recycle:
 
 Per combinar: git switch main 
+
 I: git pull
+
 Despres: git switch [branch-name]
+
 Finalment: git merge main 
 
 ## Per enviar a GitHub: git push --set-upstream origin [branch-name] :heavy_check_mark:
