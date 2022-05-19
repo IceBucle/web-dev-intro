@@ -10,3 +10,15 @@ cd i fer: git clone https://github.com/IceBucle/web-dev-intro.git :globe_with_me
 A partir d'aqui ja puc treballar des de VSC i anar fent add, commit -m "missatge" i push :penguin:
 
 Altres commandes d'interes: git status	:droplet:
+
+## Per fer un pull request a un altre projecte fer: Fork
+Abans de modificar res crear una nova branca: git branch [branch-name]
+I canviar de branca: git switch [branch-name]
+## Anar fent canvis (add . i commit -m "")
+Per combinar: git switch main
+I: git pull
+Despres: git switch [branch-name]
+Finalment: git merge main 
+## Per enviar a GitHub: git push --set-upstream origin [branch-name]
+
+Bones practiques: git branch -d [branch-name]
