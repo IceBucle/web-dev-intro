@@ -1,10 +1,10 @@
 # web-dev-intro :zap:
 
-Per practicar... i aprendre
+Per practicar... i aprendre :sparkles:
 
 ## Per començar un projecte fer: New repository (a GitHub) :pushpin:
 
-Sempre afegir el README.md per defecte
+Sempre afegir el README.md per defecte :memo:
 
 ## Crear la carpeta del projecte (amb el mateix nom que el projecte) :open_file_folder:
 
@@ -16,19 +16,19 @@ Altres commandes d'interes: git status	:droplet:
 
 ## Per fer un pull request a un altre projecte fer: Fork :trident:
 
-Abans de modificar res crear una nova branca: git branch [branch-name]
+Abans de modificar res crear una nova branca: git branch [branch-name] :rocket:
 
-I canviar de branca: git switch [branch-name]
+I canviar de branca: git switch [branch-name] :label:
 
 ## Anar fent canvis (add . i commit -m "" i opcional pull) :recycle:
 
-Per combinar: git switch main 
+Per combinar: git switch main :dizzy:
 
-I: git pull
+I: git pull :art:
 
-Despres: git switch [branch-name]
+Despres: git switch [branch-name] :scroll:
 
-Finalment: git merge main 
+Finalment: git merge main :dna:
 
 ## Per enviar a GitHub: git push --set-upstream origin [branch-name] :heavy_check_mark:
 
