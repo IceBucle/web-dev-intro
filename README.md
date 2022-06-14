@@ -1,4 +1,4 @@
-# web-dev-intro
+# web-dev-intro :zap:
 
 Per practicar... i aprendre
 
