@@ -2,7 +2,7 @@
 
 Per practicar... i aprendre
 
-## Per començar un projecte fer: New repository (a GitHub)
+## Per començar un projecte fer: New repository (a GitHub) :pushpin:
 
 Sempre afegir el README.md per defecte
 
@@ -10,7 +10,7 @@ Sempre afegir el README.md per defecte
 
 cd i fer: git clone https://github.com/IceBucle/web-dev-intro.git :globe_with_meridians:
 
-A partir d'aqui ja puc treballar des de VSC i anar fent add, commit -m "missatge" i push :penguin:
+A partir d'aqui ja puc treballar des de VSC i anar fent add ., commit -m "missatge" i push :penguin:
 
 Altres commandes d'interes: git status	:droplet:
 
