@@ -32,4 +32,6 @@ Finalment: git merge main :dna:
 
 ## Per enviar a GitHub: git push --set-upstream origin [branch-name] :heavy_check_mark:
 
+També es pot fer git push -u origin [branch-name] :infinity:
+
 Bones practiques: git branch -d [branch-name] :compass:
