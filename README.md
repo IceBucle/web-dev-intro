@@ -20,7 +20,7 @@ Abans de modificar res crear una nova branca: git branch [branch-name] :rocket:
 
 I canviar de branca: git switch [branch-name] :label:
 
-## Anar fent canvis (add . i commit -m "" i opcional pull) :recycle:
+## Anar fent canvis (add . i commit -m "") :recycle:
 
 Per combinar: git switch main :dizzy:
 
@@ -35,3 +35,5 @@ Finalment: git merge main :dna:
 També es pot fer: git push -u origin [branch-name] :infinity:
 
 Bones practiques: git branch -d [branch-name] :compass:
+
+## git pull serveix per obtenir els canvis de github al local
